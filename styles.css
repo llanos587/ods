@@ -49,6 +49,6 @@ body {
 .no-border td {
     padding: 8px;
     text-align: left;
-    border: none; /* Elimina los bordes */
+    border: none;
+    width: 50%;
 }
-
